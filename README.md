@@ -8,8 +8,6 @@ Quotr is a free and open-source PHP quotation generator that is capable of creat
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-1.png">
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-2.png">
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-3.png">
-</p>
-<p float="left">
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-4.png">
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-5.png">
   <img width="250" style="inline-block" src="https://code-boxx.com/wp-content/uploads/2021/11/illus-quotr-6.png">
