@@ -15,8 +15,8 @@ Quotr is a free and open-source PHP quotation generator that is capable of creat
 
 
 ## HOW TO USE & DOCUMENTATION
-1) Edit quolib/quotr.php, change (C1) company information to your own.
-2) That's all. Check out example.php.
+1) Edit `quolib/quotr.php`, change (C1) company information to your own.
+2) That's all. Check out `example.php`.
 
 Please visit https://code-boxx.com/quotr-php-quotation-generator for more!
 <br><br>
@@ -45,5 +45,5 @@ SOFTWARE.
 <br><br>
 
 ## CREDITS
-1) PDF output with MPDF - https://mpdf.github.io//
-2) DOCX output with PHPWORD - https://github.com/PHPOffice/PHPWord
+1) PDF output with MPDF - https://mpdf.github.io/
+2) DOCX output with PHPWORD - https://github.com/PHPOffice/PHPWord/
